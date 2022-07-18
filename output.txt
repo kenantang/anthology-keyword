@@ -40,3 +40,361 @@ reversed, 125
 partial input bias, 6
 decent prediction, 11
 preserve the meaning, 153
+dual-pivot, 1
+fine-tuning pair, 200
+shared structure, 326
+out-of-the-box, 115
+post-training, 488
+pivot pair, 95
+completely unsupervised, 103
+partially unsupervised, 60
+fourfold, 4
+light, 653
+lensing module, 0
+synthetic bitext, 6
+bootstrapped bitext, 8
+unnormalized score, 0
+degenerate, 50
+degraded, 330
+summand, 0
+summands, 0
+Arabic-English, 805
+German-English, 1310
+hubness, 10
+hub, 74
+trainable components, 46
+to some extent, 2560
+resource-rich, 690
+resource-poor, 169
+high-resource, 1770
+low-resource, 2060
+lexical constrained decoding, 22
+left-to-right, 414
+translation prefix, 72
+text-infilling, 30
+text infilling MLM, 0
+text infilling masked, 7
+hard constraints, 76
+maximum a posteriori, 10
+decoding time, 351
+multiple iterations, 18
+post-edited, 495
+given prefix, 238
+given suffix, 157
+burden, 87
+terminology constraints, 41
+nested NER, 44
+non-crossing, 76
+nested, 184
+tree fragments, 28
+chart-based, 1920
+span representation, 191
+subspan, 2
+sub-span, 40
+cursor, 6
+n-ary, 63
+bos, 127
+fencepost, 0
+fencepost representation, 0
+deep biaffine function, 0
+boundary, 574
+shared boundary, 21
+CYK algorithm, 4
+CKY algorithm, 14
+multiple children, 23
+near-optimal, 40
+linearize, 122
+semi-Markov, 41
+shortcut, 45
+reorder, 410
+preserve order, 21
+hypergraph, 41
+headword, 58
+fruitful, 87
+flatter minima, 2
+flat, 241
+smoothed loss landscapes, 1
+incorrect boundary, 5
+sharpness, 4
+miscalibration, 3
+sharpness miscalibration, 0
+biaffine decoder, 10
+smoothing visualization, 1
+flat NER, 21
+auxilary embedding, 56
+over-confidence, 83
+over-confident, 60
+miscalibrated, 1
+reliability diagram, 1
+ECE, 161
+expected calibration error, 2
+loss landscape, 7
+geometric property, 5
+chaotic, 69
+recall-sensitive, 40
+translationese, 76
+inverse model, 66
+denoising auto-encoding, 30
+DAE, 46
+third-party, 51
+Google Translator, 21
+natural inputs, 2300
+self-training, 536
+joint BPE, 10
+executable, 62
+Excel, 33
+expansion pruning, 6
+verbatim, 20
+repartitioning, 0
+fictional domains, 5
+connected component, 20
+accessor, 6
+increased latency, 6
+last token, 1670
+last token embedding, 224
+three times, 494
+i.i.d., 16
+bold red font, 9
+aggressive pruning, 4
+conservative pruning, 0
+system-generated, 766
+relative quality, 189
+one-point deterministic, 5
+probability correlation, 15
+probability correlated, 36
+one-point, 594
+reward shaping, 7
+quality estimation, 383
+two-stage, 568
+demonstrations, 1840
+exploit metrics, 152
+novel n-grams, 58
+novel ngrams, 43
+computational overhead, 78
+click here, 120
+hyperlink, 43
+path-based, 357
+last but not least, 80
+high-quality negative, 40
+entity-to-concept, 155
+coarse-to-fine, 146
+silver standard, 60
+case marker, 60
+case polysemy, 45
+case homosemy, 0
+glossing, 102
+deep cases, 247
+loosely based, 19
+verse, 108
+Norwegian Bokmål, 18
+artefact, 30
+artifact, 104
+Fisher, 189
+adpositions, 9
+clitics, 43
+syncretism, 10
+well-generalized, 65
+2-model ensemble, 287
+3-model ensemble, 153
+ensemble-distillation, 34
+weight-sharing, 19
+alternating updates, 5
+gating factor, 1
+paired student t-test, 0
+ensemble variance, 6
+branches, 169
+training-from-scratch, 109
+low-resource datasets, 470
+rich-resource datasets, 144
+high-resource datasets, 282
+low variance, 60
+norm constraint, 7
+well-trained, 1040
+API, 240
+APIs, 275
+deployment strategy, 6
+feature attribution, 4080
+hand-crafted, 337
+semi-automatic, 434
+glass-box, 12
+binary calibration, 2
+null response, 0
+LIME and SHAP, 0
+SHAP and LIME, 0
+random forest, 191
+glass box, 48
+fool, 41
+union, 145
+utterly fail, 0
+utterly fails, 0
+utterly failed, 0
+in-domain OOD, 25
+strictly black-box, 2
+knowledge embedding, 894
+closed simile, 1
+open simile, 4
+three distractors, 1870
+two distractors, 15
+usage frequencies, 37
+context diversity, 267
+context diversities, 127
+equally divided, 2
+copula, 15
+PCA, 42
+t-SNE, 23
+knowledge-enhanced, 690
+equivalent prompts, 2
+backdoor, 24
+backdoor paths, 0
+backdoor criterion, 0
+structural causal model, 41
+causal paths, 6
+verbalization, 32
+further pretrain, 115
+sample disparity, 3
+intuitive solution, 12
+rank consistency, 66
+revise, 100
+revision, 245
+naturally occuring, 102
+erroneous translations, 87
+continued training, 201
+continued pre-training, 22
+continued pretraining, 40
+semantic divergence, 92
+local errors, 104
+bicleaner, 4
+medium-frequency words, 4
+rejuvenation, 4
+potentially idiomatic expressions, 14
+bottom three layers, 5
+top three layers, 18
+metonym, 2
+canonical correlation analysis, 51
+CCA, 37
+amnesic, 2
+iterative null-space projection, 4
+INLP, 68
+within-domain, 993
+falsify, 6
+clausal, 62
+resource-intensive, 120
+workaround, 7
+parameter-intensive, 16
+unlabelled finetuned, 10
+boundary detection, 87
+dialogic discourse, 7
+background claim, 19
+own claim, 20
+independent signals, 17
+unit tests, 3090
+strategic, 1720
+non-compositional questions, 9
+compositional questions, 115
+compositional, 532
+non-compositional, 83
+self-consistency, 37
+self-consistency dialog, 20
+invariance, 178
+cropping, 9
+populate, 61
+human baseline, 1340
+$, 0
+trip the model, 54
+2-choice, 271
+3-choice, 230
+disjunction, 51
+atomicity, 2
+human ceiling, 5
+BioNLP, 669
+Anglo-centric, 2
+single-human, 577
+community-driven, 83
+north star, 19
+search engine logs, 76
+real-world distribution, 80
+maintenance, 175
+-STS, 90400
+query-query, 1260
+dishonest experts, 0
+utility-preserving anonymization, 2
+culture, 974
+Nordic, 757
+sociolects, 4
+colour, 32
+color, 13400
+cultural assumptions, 6
+slurs, 8
+obscene words, 5
+geo-diverse, 2
+annotation projection, 129
+food, 151
+violated, 78
+disparity, 50
+group DRO, 0
+cross-cultural translation, 10
+adaptation translation, 437
+adaptive translation, 115
+decolonise, 2
+non-canonical, 80
+contingent, 11
+non-head words, 48
+collocations, 371
+binomial expressions, 1
+syntactic confounds, 6
+Tregex, 2
+nested model comparison, 3
+semantic idiosyncracy, 23
+REB approval, 0
+bar charts, 2940
+line charts, 73
+planning-based, 252
+image captioning, 156
+sentinel token, 0
+bounding box positional embeddings, 0
+white-box, 757
+blunt questions, 0
+blunt, 3
+consistency tf-idf, 3
+TrueSkill, 4
+Kendall ranking correlation, 1
+dialog exchanges, 41
+in perspective, 1280
+bot-bot, 250
+Grice's maxim, 2
+dyadic conversations, 17
+low-effort, 230
+adversarial filtering, 41
+dissonance, 0
+multi-source training, 198
+many-to-many, 7470
+saturation ensemble, 1
+ensemble shared layers, 13
+PWCCA, 0
+event-level, 372
+event-centric, 33
+continued pre-training BART, 3
+continually pre-trained BART, 0
+human-labeling, 364
+span recovering, 9
+recovering, 383
+three losses, 188
+four losses, 48
+GPU hours, 3020
+multipart, 72
+80/20/20, 0
+classic models, 161
+stack size, 6
+pilot study, 153
+VLU, 0
+prompt-generation, 7
+out-of-coverage, 89
+support set, 460
+optimize normalization, 14400
+normalization optimization, 12
+normalization parameter, 46
+optimize bias, 43
+bias optimization, 29
+bias parameter, 62
+cheaper, 42
+BitFit, 3

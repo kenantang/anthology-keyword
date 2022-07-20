@@ -1,12 +1,10 @@
 # Automated Keyword Search in ACL Anthology
 
-### Introduction
+## Introduction
 
 This tool enables automated search for relevant papers with keywords in the [ACL Anthology](https://aclanthology.org). 
 
----
-
-### Challenges
+## Challenges
 
 One key challenge is that the returned number is unstable. After multiple searches, the minimal number is the stable one. The multiple searches are realized by switching between the two search options ("Relevance" or "Year of Publication"). The clicks are automated by [chromedriver](https://chromedriver.chromium.org), so please check that the local chromedriver has the same version as the browser before running the script (version 103 for this initial commit).
 
@@ -16,24 +14,51 @@ In order to (1) provide enough time for searching and (2) space the clicks so th
 
 The `output.txt` file saves the results from my [keyword logbook](https://kt2k01.github.io/posts/2022/07/keyword/).
 
----
-
-### Experiments
+## Experiments
 
 The file would be updated regularly from 22/07/10. The initial test shows that the current strategy works for scraping a list of 42 keywords. 
 
 In a later test with 358 keywords, the scraper fails at the following indices 9, 54, 99, 135, 180, 225, 270, 279, 291, 324, 353.
 
----
+## Observations
 
-### TODO
+Combinations of keywords do not return good results:
+- gate control GNN, 0
+- gate fusion GNN, 0
 
-Currently only the notebook version is available. Command line support would be added later.
+Different hyphenation will change results:
+- multitask-setting, 262
+- multi-task setting, 740
+- subspan, 2
+- sub-span, 40
+- glass-box, 12
+- glass box, 48
 
----
+Some words have surprisingly low frequencies:
+- i.i.d., 16
+- gating factor, 1
+- paired student t-test, 0
+- PCA, 42
+- t-SNE, 23
+- CYK algorithm, 4
+- CKY algorithm, 14
+- VLU, 0
 
-### Word Cloud Visualization
+Some surprisingly high:
+- -STS, 90400
+- color, 13400
+
+Results are not relevant as desired:
+- bos, 127
+
+Many keywords that have appeared in the original paper return 0 frequency.
+
+## Word Cloud Visualization
 
 This is a word cloud visualization of all results.
 
 ![WordCloud](wordcloud.png)
+
+## TODO
+
+Currently only the notebook version is available. Command line support would be added later.

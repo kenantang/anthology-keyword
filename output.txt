@@ -398,3 +398,433 @@ bias optimization, 29
 bias parameter, 62
 cheaper, 42
 BitFit, 3
+heavy tail, 3
+running example, 43
+synthetic tasks, 420
+side information, 351
+tabular, 78
+qualification quiz, 1
+HIT, 679
+hit, 679
+1-4 scale, 25
+1-5 scale, 25
+Flesch, 23
+linearization, 153
+homogeneous, 96
+Hitlin, 0
+cold start, 76
+confidentiality, 24
+expertise, 195
+inter-training, 167
+cluster curriculum, 2
+curriculum cluster, 2
+stylistic distinction, 10
+sequential information bottleneck, 4
+sIB, 7
+normalized mutual information, 7
+NMI, 1
+pseudo-label MLM, 0
+pseudo-label BERT, 10
+key-point analysis, 32
+sparse patterns, 32
+locality sensitive hashing, 80
+LSH, 15
+partitioning, 144
+fuzzy clustering, 8
+blocks, 485
+finite experiments, 80
+task taxonomy, 184
+brain, 344
+neuroscience, 142
+brain activity, 503
+analytic hierarchy process, 1
+cognitive, 2460
+exhaustive, 204
+transductive TL, 0
+inductive TL, 2
+lifelong learning, 41
+task embedding, 2710
+Canberra distance, 1
+non-target, 293
+voxel, 6
+hierarchical clustering, 96
+long range, 440
+over-sensitive, 94
+oversensitive, 2
+recency bias, 3
+tempered sampling, 2
+log-linear boosting, 0
+undertraining, 3
+single pass, 34
+hyposensitivity, 0
+soft matching, 23
+online storage, 81
+codebook-based, 4
+decompression, 2
+footprint, 63
+overhead, 127
+scalar quantization, 0
+codebook compression, 2
+softplus, 0
+asymmetric distance computation, 0
+precomputed, 23
+product quantizer, 2
+additive quantizer, 0
+preloaded, 1
+standalone, 104
+entire set, 1790
+SFT, 3
+lottery ticket, 16
+rewind, 1
+model-independent, 831
+model-agnostic, 383
+Fisher information, 43
+derogation, 2
+lottery ticket selection, 0
+lottery ticket winning, 16
+compositionality, 458
+compound divergence, 3
+SPARQL, 30
+compressed SPARQL, 0
+arc, 459
+dependency arc, 130
+full-precision, 53
+historical linguistics, 613
+hand-annotated, 314
+sporadically, 1
+treebank, 2260
+treebanking, 1980
+desideratum, 30
+desiderata, 24
+standardised, 69
+standardized, 302
+IAST, 0
+IPA, 30
+tonogenesis, 0
+toneme, 1
+tonemes, 1
+areal, 10
+areal studies, 92
+subtrate language, 4
+vociferous, 0
+Transkribus, 0
+mutual information, 210
+bilingual mutural information, 7
+token-level, 547
+sentence-level, 2120
+up-weight, 146
+mixed precision, 15
+synchronously, 396
+over-focus, 454
+self-paced, 21
+extra data, 192
+yes/no, 177
+not-answerable, 92
+unanswerable, 72
+decouple, 138
+public policy, 87
+HTML, 510
+HTML elements, 29
+snippet, 207
+ETC, 1340
+common error, 196
+common errors, 210
+L2R, 2
+R2L, 3
+relatively low probabilities, 15
+threshold, 287
+partially observable, 12
+pertinently, 2
+backward network, 23
+backward decoder, 14
+unconfident, 2
+unconfidently, 1
+bridging, 314
+bridging resolver, 12
+cross-task, 2330
+learning-based, 5020
+soft constraints, 92
+element-wise multiplication similarity, 0
+hardness coefficient, 0
+dummy, 11
+precision-oriented, 30
+recall-oriented, 20
+10-fold, 86
+harsh, 87
+max-margin, 43
+Gaussian-distributed embeddings, 11
+Gaussian embeddings, 72
+prototypical networks, 69
+variance estimation, 12
+point embedding, 207
+numerical stability, 2
+5-shot, 145
+1-shot, 851
+ProtoBERT, 0
+uniformity, 15
+support data, 1360
+micro-context, 76
+BERTology, 9
+Gricean, 6
+unsaturated, 2
+pioneering, 96
+misprime, 1
+multi-tower, 3
+dual-encoder, 59
+avoid saturation, 1
+leakage, 27
+query-context, 221
+fine-to-coarse, 167
+distributional semantics, 676
+BERT-small, 178
+token alignment, 160
+embedding alignment, 340
+cosine similarity temperature, 0
+SSL, 21
+fake tokens, 3
+plug-and-play, 48
+WordSim353, 9
+disparate, 76
+unseen, 920
+minimal modification, 59
+embedding space regularization, 10
+embedding regularization, 102
+open-vocabulary, 416
+hallmark, 16
+siamese, 138
+multi-margin, 120
+pairwise margin, 6
+memory data, 736
+lower bound, 46
+upper bound, 92
+quantized vector, 76
+fuse, 135
+syntax-aware, 6110
+formulas, 240
+triplet completion, 10
+operator trees, 5
+OPT, 51
+multi-view, 1150
+bi-directional knowledge transfer, 3
+rehearsal, 3
+replay, 36
+service, 1460
+abort, 6
+abruptly, 9
+experience replay, 9
+progressive neural network, 8
+compositional modules, 17
+dissimilar, 60
+anisotropy, 16
+inner layers, 23
+self-similarity, 95
+swiss-roll, 0
+swiss-roll manifold, 0
+embedding geometry, 75
+semantic geometry, 59
+BOS token, 1
+CWE, 2
+CWEs, 3
+readability, 638
+control tokens, 33
+discrete control tokens, 2
+continuous control tokens, 1
+word coverage, 397
+GeForce, 0
+disjointed, 1
+constrain, 1180
+constrains, 460
+soft control, 9
+stochastic search, 153
+MaxPool, 2
+kth, 135
+k-th, 193
+maxout, 5
+MindSpore, 0
+community use, 840
+Standard Roman Orthography, 2
+SRO, 1
+child-directed, 57
+community-based, 1140
+EGIDS, 0
+SRO-syllabics converter, 0
+SRO-syllabics, 0
+BoW format, 0
+insert a space, 2
+normative effects, 0
+computer assisted language learning, 306
+CALL, 1230
+SoundHunters, 0
+constituent order, 1450
+WALS, 18
+polynomial decay, 0
+constituent shuffle, 0
+word order, 1440
+cross-lingual distantly-supervised, 3
+type hierarchy, 339
+ultra-fine, 10
+FGET, 2
+bilingual lexicon induction, 162
+phrase retrieval, 188
+momentum encoder, 4
+Elasticsearch, 8
+VecMap, 10
+fine-grained discrete, 19
+localization, 183
+two-branch, 33
+SHN, 1
+NCE, 27
+MMS, 3
+InfoNCE, 2
+codebook, 13
+codeword, 4
+softmin, 1
+median rank, 0
+trajectory, 97
+sizable gap, 22
+headroom, 3
+as-is, 41300
+prosody, 536
+prosody variation, 57
+style token, 72
+frame-to-phoneme, 3
+energy, 196
+pitch and energy, 3
+phoneme transformer, 69
+mixture encodings, 200
+text infilling evaluation, 60
+attribute relevance, 57
+NISF, 0
+normalized inverse sentence frequency, 1
+verbalizer, 6
+evaluator set, 4250
+Pearson Spearman Kendall, 0
+model drift, 42
+good-enough, 73
+good enough, 73
+langid, 4
+Bhattacharyya, 387
+Bhattacharyya coefficient, 2
+socioeconomic factors, 4
+lossy, 4
+RBO, 0
+ranked biased overlap, 2
+generative-based, 392
+deconfounding, 5
+unfastened, 0
+centering model, 21
+generate negative examples, 30
+AMR, 249
+AMR graph, 191
+logical flaws, 1
+logical flaw, 1
+cone, 25
+whitening, 2
+sampling bias, 92
+word class, 992
+EEG, 40
+confounding dimensions, 1
+weblogs, 46
+RSVP, 6
+Rapid Serial Visual Representation, 1
+PsychoPy, 0
+Flax/Jax, 0
+False Discovery Rate, 1
+FDR, 1
+butterfly plot, 0
+butterfly plots, 0
+re-averaging, 143
+Wilcoxon signed rank-test, 1
+train-test overlap, 13
+hash collision, 0
+bloom filter, 2
+suffix array, 14
+MinHash, 0
+edit similarity, 76
+ILP, 57
+integer linear programming, 64
+inductive logic programming, 12
+reasoner, 41
+reasoner module, 17
+biGRU, 21
+existential predicate, 0
+t-norm, 319
+gradient flow, 12
+invented predicate, 0
+heuristic noise, 47
+surface form, 264
+fairseq noise, 5
+fairseq noise function, 0
+continue finetuning, 62
+multi-task finetuning, 280
+span-span, 980
+subtree-subtree, 104
+left-out, 51
+expressivity, 40
+large margin objective, 21
+third-order, 204
+MST decoding, 2
+thorny, 5
+delexicalize, 2
+MoS, 69
+unwieldy, 3
+newswire, 155
+unassimilated, 1
+anglicism, 2
+anglicisms, 2
+Doccano, 2
+sense2vec, 0
+blenderbot finetune, 0
+KGAT, 1
+kernel graph attention network, 2
+proverbial, 1
+future predicting, 72
+n-stream, 43
+stream, 638
+Free Bits, 4
+full manual, 69
+entirely manual, 41
+gold-quality, 297
+synset, 107
+archaic usage, 0
+archaic usages, 0
+monosemous, 9
+polysemous verb, 46
+highly polysemous, 65
+search errors, 2990
+model errors, 1690
+search errors model errors, 1740
+cascade structure, 12
+summary paraphrase, 5
+MARL, 5
+centralized training, 7
+decentralized execution, 0
+coverage mechanism, 104
+channel, 460
+joint actions, 95
+AutoPhrase, 0
+denovo, 1
+denovo training, 0
+de novo training, 0
+training from scratch, 121
+board-certified, 1
+topic fusion, 18
+expert-derived, 36
+inference pass, 28
+unwritten languages, 12
+unwritten, 23
+speech units, 2250
+S2ST, 6
+connectionist temporal classification, 20
+CTC, 80
+over-generation, 785
+vocoder, 3
+cepstral, 20
+cepstrum, 4
+telephone, 253
+filterbank, 3
+mean opinion scores, 8
+MOS, 69
+timeit, 55
+PyPAPI, 0
+memory-profiler, 0

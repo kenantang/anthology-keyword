@@ -828,3 +828,897 @@ MOS, 69
 timeit, 55
 PyPAPI, 0
 memory-profiler, 0
+incomplete labelling, 20
+positive and unlabelled, 13
+PU, 153
+classification risk, 67
+Rademacher, 0
+Rademacher complexity, 0
+covariate shift, 5
+seasonal, 6
+time-varying covariates, 0
+demographics, 199
+family-wise, 363
+pre-collected, 217
+unanswerable, 32
+feature cluster, 284
+100 classes, 50
+confirmation bias, 3
+loss correction, 898
+cluster-level, 78
+sieve, 25
+sieving, 38
+stable hyperparameters, 83
+unstable hyperparameters, 0
+hierarchical loss, 43
+quality estimation, 435
+noisy learning, 559
+trusted instances, 0
+trusted instance, 0
+contexual parameters, 54
+multi-encoder regularization, 72
+contrastive test sets, 24
+contrastive translation, 92
+contrastive evaluation, 144
+contrastive ranking, 30
+contrastive rank, 48
+along this path, 26
+imputed, 23
+NDO, 87
+non-domunant order, 217
+German NDO, 4
+native language, 1020
+native language effect, 72
+ABX discriminability, 0
+metamers, 0
+reduced sensitivity, 2
+contrastive predicting coding, 2
+fifth layer, 35
+probit regression, 0
+phone contrasts, 46
+acoustic scenes, 7
+non-speech, 726
+biologically plausible, 1
+attention vector entropy, 1
+attention flow, 56
+task-modulated, 96
+task-neutral, 281
+untuned, 1
+overcomplete, 3
+hard-to-predict, 87
+from-scratch, 405
+orientation, 182
+domain orientation, 15
+orientation vector, 5
+ADA, 51
+any domain adaptation, 65
+pivot features, 20
+subtrahend, 0
+weighted BCE loss, 0
+BCE loss, 0
+query style, 69
+style query, 31
+runner-up, 10
+annotators' behaviors, 104
+annotator behavior, 97
+edit-based, 529
+edit-based annotation, 44
+re-annotated, 1020
+re-annotate, 653
+language discriminator, 322
+gradient reversal, 5
+reversal, 51
+Sent2Vec, 4
+capsule networks, 48
+confidence penalty, 5
+confidence penalty loss, 1
+activation boundary, 3
+entity anonymization, 10
+anonymization, 58
+non-parametric, 204
+crosswordese, 0
+rebus, 0
+MIPS, 4
+Satisfiability Modulo Theories, 0
+snippet, 556
+snippet-level, 25
+receptive field, 6
+consistency loss, 33
+dynamic weights, 26
+top-K parameterize, 0
+top-K parameter, 8
+top-K dynamic weights, 1
+locator, 7
+hyperparameter binary search, 2
+binary search, 690
+2-step binary search, 21
+3-step binary search, 4
+performant, 69
+trigger, 360
+world event knowledge, 69
+pair constraints, 184
+pair constraint, 112
+memory store, 39
+demonstrations, 1840
+dynamic decoding, 72
+dynamic prefix, 5
+data-efficient, 1290
+irrelevance classifier, 17
+membership, 166
+evolving, 321
+warm-up proportion, 0
+free-text-formed, 209
+reporting bias, 89
+superficial cues, 16
+causal-strength, 4
+FGM, 2
+swift models, 7
+super models, 109
+instance-wise, 20
+negative free energy, 0
+free energy, 7
+negative free, 18
+reassembling, 1
+ghost modules, 1
+ghost, 9
+multi-exit, 7
+EBM, 60
+artificial token, 57
+noise ratio, 41
+curious, 81
+class distribution similarity, 6
+class distribution similarities, 8
+local intrinsic dimensionality, 1
+intrinsic dimensionality, 2
+Elec, 48
+over-training, 1980
+cognitive demand, 25
+distribution learning, 374
+guided conversation, 24
+silver, 85
+control signals, 25
+E2E, 138
+word-of-mouth, 8
+childcare, 0
+niche-targeting, 1
+nichetargeting, 0
+iteratively refine, 72
+structured sentiment analysis, 131
+SSA, 54
+POS embedding, 127
+part-of-speech embedding, 293
+lemma embedding, 35
+rotary position embedding, 0
+Circle loss, 81
+cosine annealing warm restarts, 0
+kNN retrieval, 9
+compact network, 108
+datastore, 12
+Meta-k, 33
+Meta-k network, 9
+one-plus-one, 86
+entropy-based pruning, 2
+DBSCAN, 2
+BIRCH, 146
+pivot selection, 10
+random pruning, 7
+pruning rate, 6
+top-performed, 372
+top-performing, 99
+stable convergence, 4
+validation curvature, 0
+time budget, 31
+nuclear norm, 0
+inverse relation, 46
+add inverse relation, 2
+HP, 83
+HPs, 2
+SRCC, 0
+curvature, 3
+sample subgraphs, 2
+subgraph sampling, 2
+decouple search space, 6
+quasi-random search, 1
+robuster, 1
+sentence compression, 129
+look-ahead, 28
+look-ahead mechanism, 0
+moving average, 11
+dense annotations, 138
+information tree, 847
+temporal grounding, 72
+one-shot, 394
+semantic relevance, 132
+Intersectin over Union, 2
+IoU, 48
+surgically remove, 0
+ASTE, 21
+biaffine attention, 12
+multi-channel, 70
+classifier chains, 24
+BERTwwm, 8
+BERT-wwm, 9
+enhancement module, 21
+multi-step information propagation, 7
+MSIP, 0
+MixPooling, 42
+heterogeneous graph, 121
+betweenness centrality, 1
+concretization, 1
+thulac, 0
+ictclas, 1
+hanlp, 0
+elbow, 1
+lattice, 262
+full-shot, 55
+TPU Google Colab, 0
+mixed prompting, 9
+right-to-left re-ranking, 4
+Parallel Iterative Edit, 4
+Learner English, 283
+NUCLE, 8
+fast tokenizers, 11
+quorum, 6
+majority quorum, 0
+errorful, 5
+distributional similarity, 480
+distributional inclusion hypothesis, 4
+balanced inclusion, 8
+neo-Davidsonian, 11
+neo-Davisonian, 11
+sentence generator, 207
+Gödel t-norm, 0
+Gödel probability, 0
+centering theory, 135
+AWQ, 0
+entity grid, 14
+depthwise convolution, 2
+depthwise, 4
+depth-wise, 7
+Tree-Transformer, 73
+one-sample t-test, 40
+two-sample t-test, 49
+premarked, 0
+premark, 0
+novel unigrams, 10
+novel bigrams, 8
+proverb, 11
+surface overlap, 18
+overfit to annotator, 51
+VADER, 4
+VADER sentiment, 1
+bind, 175
+recombine, 5
+recombined, 5
+out-of-context, 525
+tree edit distance, 16
+running example, 62
+I will, 13100
+physiognomy, 0
+buy-in, 92
+boiler-plate, 25
+semi-standardized, 103
+conductance, 2
+recourse, 10
+Green AI, 46
+ethics washing, 0
+information contrast model, 197
+MAAC, 0
+macro average accuracy, 10
+category proximity, 5
+adverse events, 69
+one-error, 547
+propensity, 16
+extreme classification, 38
+mono-label, 6
+information content, 1530
+statistical specificity, 9
+similarity axioms, 1
+linear contrast model, 15
+a taxonomy of errors, 30
+impenetrable, 2
+medical simplification, 43
+paucity, 115
+codify, 18
+decontextualization, 2
+word-to-word, 17100
+further adaptation, 275
+scraping-bys, 84
+PanLex, 43
+eflomal, 1
+induced lexicon, 164
+graph perturbations, 10
+concatenated edges, 7
+graph autoregressive, 11
+autoregressive graph, 12
+tree autoregressive, 5
+autoregressive tree, 5
+generate-and-refine, 21
+historical use, 277
+Tree-BertScore, 0
+Maximum Input Unit, 71
+IME, 131
+Chinese IME, 10
+online vocabulary adaptation, 23
+glyph, 25
+pinpointing, 54
+mention-entity, 661
+Xhinua, 7
+classy, 1
+in the same ballpark, 0
+historical analyses, 485
+Args.me, 39
+reduction factor, 21
+text blocks, 402
+a maximum length of 128, 0
+laypersons, 6
+superficial competitiveness, 0
+ERM, 57
+MiniLMv2, 1
+worst class influence, 0
+worst-group performance, 2
+ballpark, 2
+Adversarial Removal, 22
+IRM, 24
+V-REx, 6
+proof graph, 51
+unseen subjects, 16
+continued concatenation, 7
+stitched, 7
+inference time, 532
+forward chaining, 0
+operating points, 47
+faithfulness errors, 8
+control models, 613
+trade-off curve, 1
+XSum hallucinations, 3
+selector, 51
+loss truncation, 3
+education domain, 83
+sub-skills, 6
+unconventional punctuation, 0
+focal event, 2
+Cronbach, 1
+Cronbach's coefficient alpha, 0
+entropy statistics, 10
+artificial development set, 24
+order sensitivity, 48
+block n-gram repetitions, 0
+paid-for, 217
+trigger tokens, 11
+lexical bias, 70
+unrealistic information, 161
+LMI, 4
+presupposition, 68
+college student, 2200
+data whitening, 1
+readability metrics, 41
+semantic understanding, 1030
+class-incremental, 19
+new classes, 562
+old classes, 28
+replay dataset, 6
+data-free distillation, 4
+non-special tokens, 10
+code-mixing addition, 17
+scalar knob, 1
+writing assistance, 26
+inference-time trick, 0
+inference trick, 8
+re-insertion, 23
+stop-grad, 1
+stop gradient, 2
+3-point scale, 48
+LaBSE, 9
+dataless classification, 4
+SN, 75
+batch softmax, 3
+in-batch negatives, 8
+acceptability, 161
+Welch's t-test, 2
+Welch, 41
+cross attention, 622
+NVIDIA Triton, 0
+heterogeneous knowledge, 145
+conflicting knowledge, 20
+label description, 152
+label descriptions, 167
+in-house, 243
+self-describing, 10
+nutrition, 8
+banking, 605
+information gain, 434
+DBPedia Spotlight, 1
+gradient-boosting, 41
+dev-test correlation, 18
+summary of findings, 178
+K-fold, 23
+minimum description length, 46
+bagging, 43
+model informed, 368
+leave-of-out, 33
+unstable variance, 5
+semi-supervised few-shot, 28
+VaTeX, 6
+fill-in-the-blank, 36
+fill-in-the-blanks, 109
+extra spaces, 43
+early-fusion, 19
+late-fusion, 43
+two-stream, 76
+spatial structure, 45
+single-stream, 23
+dual-stream, 6
+scene tree, 9
+scene grammar, 7
+scene graph, 43
+UUAS, 3
+undirected unlabelled attachment score, 1
+fluctuate inconsistently, 0
+informativeness distribution, 3
+Matthew's correlation, 48
+stockpile, 0
+stockpiles, 0
+word inclusion, 80
+non-residual, 11
+non-residual attention, 4
+causal self-attention, 5
+mean offset, 4
+XBRL, 1
+subword fragmentation, 1
+token shape, 16
+token magnitude, 18
+IOB2, 1
+Bloom embeddings, 3
+Bloom embedding, 3
+last-pooling, 230
+structural statistics, 843
+burn-in, 27
+Prolific, 102
+benepar, 0
+Gibbs sampler, 5
+Gibbs sampling, 24
+legit, 4
+data selection, 1260
+flooding, 30
+one backward pass, 2
+accordance, 58
+accordant, 1
+gradient accordance, 0
+sub-epoch, 1
+stiffness, 0
+well-received, 79
+normalizing flows, 21
+latent representation transformation, 10
+location-scale, 2250
+BIOES, 0
+curly Iverson brackets, 0
+Iverson, 2
+beta skeleton graph, 0
+beta skeleton, 0
+skeleton, 30
+noisy serialization, 1
+serialization, 25
+dimension inference, 49
+unit inference, 1900
+index inference, 26
+Enron, 13
+sketch, 160
+table pre-training, 78
+stereotyping, 109
+MSc, 76
+double switch, 3
+citizen science, 19
+untranslatable, 4
+minimal pair, 83
+US culture, 165
+U.S. culture, 165
+idiomacy, 0
+social frames, 56
+Social Frames, 56
+re-translation, 766
+wait-k, 31
+uncover, 178
+top-of-the-line, 54
+non-interactive, 153
+informal conversation, 1570
+monologic, 2
+ascription, 3
+reified, 8
+continuer, 2
+Estoup, 0
+prima facie, 2
+turbulence, 2
+repair initiator, 0
+empirical grounding, 79
+Appen, 4
+internalize, 14
+hyperbolic space, 43
+tangent space, 5
+dependency tree probing, 25
+Frechet mean, 0
+Lorentz centroid, 0
+Einstein midpoint, 0
+floating-point error, 0
+half precision training, 2
+top-notch, 5
+predicate-argument, 394
+node merging, 6
+graph-to-text, 2810
+text-to-graph, 3550
+smatch, 27
+espeto, 0
+wash away, 0
+self-talk, 80
+product-of-experts, 28
+PoE, 7
+engineering-efficient, 250
+cache-based, 69
+long-form generation, 90
+Markov logic networks, 40
+citation, 30300
+z-statistics, 27
+unlikelihood, 9
+stress test, 32
+atomic, 153
+atomic assertions, 1
+citances, 1
+citance, 5
+check-worthy, 15
+entity-replacement, 62
+scientific NLP, 5460
+metathesaurus, 10
+overpredict, 1
+AIDA, 134
+AIDA framework, 5
+personalization, 102
+word-to-sequence, 1050
+Academic Vocabulary List, 11
+OOTB, 0
+API limits, 4
+PPLM, 2
+Thing Explainer, 0
+eschew, 7
+bottleneck, 306
+bottlenecked, 6
+generative conditioning, 41
+autoencoding, 460
+pattern-exploiting training, 12
+apple-to-apple, 184
+foreign-language country, 5
+Austronesian, 6
+local entities, 197
+auxilary supervision, 46
+PTLM, 5
+PTLMs, 43
+embedder, 9
+cookie theft, 4
+within-set, 7700
+paired perplexity, 10
+Celex Lexical Database, 5
+LDC96L14, 0
+log frequency bands, 1
+TTR, 12
+ecco, 3
+non-key, 315
+subword graph, 6
+Indiana University, 157
+secondary information, 80
+focus-attention, 378
+saliency-selection, 2
+graph self-supervised training, 14
+graph pre-training, 167
+ego-networks, 3
+ego network, 3
+protein ego-networks, 0
+tree pre-training, 42
+document rotation, 65
+Gigaword, 69
+LDC2011T07, 0
+reentrancy, 10
+AMR tree, 54
+irregular, 35
+time-series, 137
+guided cross-attention, 23
+time vector, 230
+value-at-risk, 11
+GDELT, 0
+Pyramid method, 27
+worthy, 62
+SimAlign, 1
+subtree information, 52
+Eisner, 138
+Eisner algorithm, 72
+parsing-as-deduction, 10
+spurious ambiguity, 13
+hook trick, 2
+head-splitting trick, 1
+bookkeeping, 0
+cost-augmented inference, 2
+batchify, 1
+batchify pytorch, 0
+belief propagation, 15
+soft trees, 51
+meta relations, 58
+IRC, 28
+graph-to-sequence, 213
+message passing, 43
+document structure, 2500
+document structures, 3350
+hierarchical biases, 69
+roundtrip consistency, 4
+iterative refinements, 27
+sketch, 160
+hierarchical set, 271
+residual error, 8
+depth dropout, 0
+cluster centroids, 28
+recursive k-means, 1
+hierarchical indexing, 2
+well-handle, 266
+Statistics Canada, 35
+StatCan, 0
+phrase deletion, 22
+lisp, 25
+lisp interpreter, 1
+spurious program rate, 0
+ToTTo, 23
+spatial prompts, 16
+quadrant, 5
+hot-spots, 5
+VisualGenome, 115
+affinity score, 5
+affinity scores, 5
+unimodal, 82
+neocolonialism, 1
+community-based, 1150
+polysynthesis, 6
+decolonize, 1
+SIGEL, 115
+playfulness, 1
+game with a purpose, 29
+GWAP, 13
+colorful pictures, 21
+children books, 40
+non-linguistic, 3900
+non-linguistic input, 394
+MQM, 23
+function words, 811
+interpolate, 116
+functional structure, 575
+functional roles, 144
+hypophora, 0
+SOAP, 6
+patient-nurse, 43
+patient-nurse summaries, 4
+discharge summaries, 22
+discharge, 108
+stylistic differences, 24
+SNOMED, 115
+logical semantics, 313
+overgeneration, 25
+planner, 45
+UCT, 33
+branching factor, 6
+OLIVE, 72
+complementizer, 7
+FOL, 193
+intra-associations, 242
+directed hypergraph, 3
+graph walk, 65
+path annotation, 41
+over-smoothing, 43
+hyperlink, 38
+click-logs, 17
+topical entity, 23
+similarity between corpus, 552
+AI debate, 6
+argument mining, 314
+sentence-pair classification, 140
+table-filling, 23
+mixup, 43
+HarvestText, 0
+parameter generator network, 8
+PGN, 4
+beta distribution, 4
+OEI, 1
+ideation, 26
+color-coded, 13
+meta-features, 102
+geographical cultures, 20
+at hand, 1150
+defeasible logic, 0
+hotlist, 0
+trivial, 332
+difficulty scores, 568
+item response theory, 43
+IRT, 10
+pragmatics, 411
+minimally contrastive, 1
+BRISQUE score, 0
+average dependency tree depth, 0
+human body parts, 234
+highway layer, 5
+explanatory variables, 6
+modelling negation, 460
+timestamps, 51
+code clone, 7
+clone, 57
+creative language, 56800
+metonymy, 57
+figurative paraphrase, 2
+compositional generalization, 80
+template engine, 8
+repurpose, 29
+BLEURT self-training, 1
+prototype-based, 287
+neural tensor networks, 21
+Ollie, 6
+testing concept activation vector, 1
+TCAV, 1
+Founta, 3
+boosted sampling, 13
+concept activation vector, 2
+CAV, 4
+implicit abuse, 25
+explicit abuse, 81
+multiple teachers, 89
+sequential transfer learning, 18
+weakly-labeled, 96
+weakly-labelled, 37
+imitation, 161
+query sets, 288
+construction loss, 21
+label correlation, 115
+Offensive Language Identification Dataset, 230
+OLID, 79
+ad hominem, 4
+taxonomy tree, 41
+taxonomy tree position, 1
+multi-faceted CRF, 1
+visual tokens, 41
+patch, 13
+patch-level, 2
+embedding codebook, 4
+fast clustering, 102
+questionnaire, 105
+PHQ9, 4
+clinical instrument, 6
+Beck Depression Inventory, 0
+micromodel, 1
+extra neuron, 115
+anhedonia, 1
+complex-value embedding, 10
+ComplEx, 2640
+modus operandi, 3
+Advanced Mapping, 127
+Generalized Procrustes, 2
+BLI, 32
+mimick-like, 26
+typo, 56
+hard negative generation, 6
+Graphormer, 0
+HTC, 9
+NT-Xent, 2
+stance detection, 144
+efficient market hypothesis, 2
+perculiarities, 40
+cognitive distortion, 4
+TextBlob, 1
+HateSonar, 0
+multi-hot, 48
+unconstrained, 71
+contextual bandit, 6
+option set, 102
+Pyro, 0
+natural prior, 32100
+adaptation-networks, 191
+circumflex, 0
+technology burnout, 0
+approximate nearest neighbor, 10
+beam blocking, 0
+Bing search, 298
+lemon picked, 0
+siloed, 2
+Gestalt pattern matching, 0
+orthographic depth, 1
+synesthetes, 1
+jamos, 6
+jamo, 4
+representational similarity analysis, 21
+RSA, 11
+logography, 16
+ipapy, 0
+CIELuv, 0
+Bonferroni correction, 1
+binding theory, 24
+chart-based, 1800
+non-local, 185
+paraphrase detection, 153
+Shapley, 57
+effective attention, 330
+frequency penalty, 3
+presence penalty, 1
+length embedding, 104
+noun chunks, 25
+semi-structured, 161
+prototypical graph, 24
+edge-oriented, 20
+statistically stable, 4
+Spreading-Activation Theory, 0
+relatedness, 508
+l2 similarity, 7
+Gaussian distance, 4
+fuzzy actions, 1
+fuzzy operations, 6
+fuzzy grammar, 6
+two-layer, 443
+fuzzy comparison, 27
+multi-channel, 70
+single character words, 67
+contrast vanishing, 1
+TextRank, 19
+Mahalanobis, 6
+Mahalanobis distance, 4
+geometrical disparity, 0
+imposter, 1
+one-off, 420
+translation noise, 348
+morphological alternations, 23
+non-concatenative morphology, 17
+two-tier, 23
+Bantu, 20
+Bantu languages, 48
+desktop machine, 282
+compact region, 1
+simply-connected region, 1
+simply-connected, 6
+Gaussian Hypothesis Testing, 0
+open space risk, 4
+counseling, 40
+soft positional encoding, 9
+Zenserp, 0
+position collision, 0
+Qualtrics, 0
+integrated gradients, 48
+Riemann approximation, 0
+programming language, 529
+path search, 436
+secondary pre-training, 4
+span denoising, 1
+fewer gradient updates, 5
+Hungarian algorithm, 14
+shortlist, 7
+noisy matching, 108
+gumbel-sinkhorn, 0
+systematic generalization, 60
+positional embedding downscaling, 0
+restart mechanism, 1
+poset, 1
+TLM, 9
+ranking loss, 56
+constrastive-data-selection, 41
+cross-accelerator, 1
+progressive stacking, 0
+m-USE, 1670
+additive margin, 3
+vocoder, 3
+vocoders, 3
+proprietary, 37
+meta-parameters, 46
+phonemizer, 0
+second order derivatives, 1
+guided attention loss, 7
+phonetically balanced, 20
+inverted index mapping, 1
+Louvain method, 2
+Louvain, 138
+scientific WSI, 20
+SPIKE, 21
+aggravate, 9
+exponential moving average, 3
+Moses, 176
+inverse square root, 1
+inverse square root learning rate, 0
+non-autoregressive transformer, 69
+glancing, 26
